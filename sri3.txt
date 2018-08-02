@@ -1,0 +1,1 @@
+With the latter, you can use the manual viewer of your choice; see git-help[1] for more information.

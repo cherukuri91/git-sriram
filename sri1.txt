@@ -1,1 +1,3 @@
 This tutorial explains how to import a new project into Git, make changes to it, and share changes with other developers.
+
+This is second modificaion.
