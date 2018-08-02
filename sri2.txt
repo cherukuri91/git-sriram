@@ -1,0 +1,1 @@
+If you are instead primarily interested in using Git to fetch a project, for example, to test the latest version, you may prefer to start with the first two chapters of The Git User’s Manual.

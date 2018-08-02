@@ -1,0 +1,3 @@
+This tutorial explains how to import a new project into git.
+
+This is first modification.
