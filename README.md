@@ -1,2 +1,2 @@
 # git-sriram
-sample git
+This is sample git commit.
